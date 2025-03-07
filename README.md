@@ -17,3 +17,7 @@ The objective of this project is to analyze and visualize call center trends usi
 
 ![Screenshot 2025-03-07 201341](https://github.com/user-attachments/assets/cd72cbaa-c31d-4576-ac86-04846b5d246d)
 
+## Insights from the Dashboard
+- Peak call hours lead to higher abandonment rates, indicating a need for better staffing.
+- Top-performing agents have a low AHT and high first-call resolution rates.
+- Customer satisfaction decreases when call wait times exceed 30 seconds.
