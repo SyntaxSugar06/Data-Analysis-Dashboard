@@ -12,3 +12,8 @@ The objective of this project is to analyze and visualize call center trends usi
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 - Dashboard Interaction <a href="https://github.com/SyntaxSugar06/Data-Analysis-Dashboard/blob/main/Screenshot%202025-03-07%20201341.png">View Dashboard</a>
+
+## Dashboard
+
+![Screenshot 2025-03-07 201341](https://github.com/user-attachments/assets/cd72cbaa-c31d-4576-ac86-04846b5d246d)
+
