@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-This Power BI dashboard was created , the Call Center Manager at PhoneNow, to provide transparency and insight into call center performance. It helps in analyzing call trends, agent efficiency, and customer satisfaction to support better decision-making and operational improvements.
+#Call Center Performance Analysis Dashboard
+
+Project Objective:
+The objective of this project is to analyze and visualize call center trends using Power BI, helping the Call Center Manager at PhoneNow gain transparency into key performance indicators (KPIs). The dashboard provides insights into call volumes, agent performance, customer satisfaction, and response efficiency, enabling data-driven decision-making to improve customer service and operational efficiency.
